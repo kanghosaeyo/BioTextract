@@ -1,0 +1,11 @@
+# Ignore virtual environment folder
+pubmed_env/
+
+# Ignore credentials file
+cred.env
+
+# Ignore __pycache__ folders (Python bytecode)
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints (if using notebooks)
+.ipynb_checkpoints/
