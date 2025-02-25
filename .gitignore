@@ -6,4 +6,3 @@ cred.env
 
 # Ignore __pycache__ folders (Python bytecode)
 __pycache__/
-
